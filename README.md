@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Super-Store-Sales-Dashboard With Forecasting
 
 
 Super Store Sales Dashboard using Power BI:-
@@ -9,7 +9,7 @@ Welcome to the Super Store Sales Dashboard GitHub repository!
 Description:-
 
 
-This repository contains the Power BI files for a sales dashboard analyzing data from the Super Store. The dashboard provides insights into sales performance, product categories, geographical analysis, and more.
+This repository contains the Power BI files for a sales dashboard analyzing data from the Super Store. The dashboard provides insights into sales performance, product categories, geographical analysis, and  forecasting more.
 
 Contents:-
 
@@ -31,5 +31,7 @@ Follow these steps to get started with the Super Store Sales Dashboard
 
 
 3 Explore Dashboard: Explore the different visuals and insights provided in the dashboard. Interact with the filters and slicers to dive deeper into the data.
+
+4 Create second page for forecasting for 15 Days.
 
 
